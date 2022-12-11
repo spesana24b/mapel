@@ -1,9 +1,9 @@
 <img src="/image/kls-8-sem-2.png" alt="Banners" width="100%"/>
 
-# Bahasa Indonesia
+# 📚 Bahasa Indonesia
 
 <details>
-  <summary>Sumber yang terkait</summary>
+  <summary>Sumber yang terkait pembelajaran 📦</summary>
 
 - [Buku paket bahasa indonesia bse](https://ernestoyoofi.github.io/pdf-perview/index.html?url=https%3A%2F%2Fepaper.myedisi.com%2Fbse%2F44221%2Fdocs%2FKelas-08-Revisi-2017-SMP-Bahasa-Indonesia-Siswa-44221.pdf%3Freload%3D1554106613833&inputtype=focusing_by_form)
 - [www.kherysuryawan.id/2022/05/materi-lengkap-bahasa-i...](https://www.kherysuryawan.id/2020/05/materi-lengkap-bahasa-indonesia-kelas-8.html?m=1)
@@ -15,7 +15,7 @@ Apa itu ulasan?
 Ulasan adalah tafsiran, kupasan, penilaian, atau komentar terhadap suatu hal.
 
 <details>
-  <summary>Contoh ulasan <br /><i><a href="" target="_blank">Refrensi buku paket kelas 8 bab 6</a></i></summary>
+  <summary>Contoh ulasan <br /><i><b>Refrensi Buku Paket B Indo Halaman 154 - 155</b></i></summary>
 
 <br />
 
@@ -25,6 +25,7 @@ Ulasan adalah tafsiran, kupasan, penilaian, atau komentar terhadap suatu hal.
 - Penerbit : Balai Pustaka
 - Tahun terbit : 1949 (cetakan pertama)
 - Tebal halaman : 232 halaman
+- Lihat halaman : [Klik Disini](https://books.google.co.id/books?id=cEopEAAAQBAJ&printsec=frontcover&hl=id&source=gbs_ViewAPI&redir_esc=y#v=onepage&q&f=false)
 
 Atheis merupakan salah satu novel terbaik yang memperoleh hadiah tahunan 
 Pemerintah RI tahun 1969. R.J. Maguire menerjemahkan novel ini ke bahasa 
@@ -97,4 +98,102 @@ suatu saat juga akan kembali ke jalan yang benar. Jika Tuhan Maha Pengampun,
 Pengasih, dan Penyayang, mengapa manusia tidak bisa, apalagi demi memaafan 
 anaknya sendiri. Bahasa novel ini lugas dan mudah dipahami. Sayangnya, novel 
 ini sudah sangat langka sehinga sulit diperoleh.
+</details>
+
+<details>
+  <summary>Contoh Resensi Film <br /> <i><b>Refrensi Buku Paket B Indo Halaman 156</b></i></summary>
+
+<br />
+
+Film ”Laskar Pelangi” adalah sebuah adaptasi dari novel Andrea Hirata dengan judul yang sama. Film ini berlokasi di Belitong, Sumatra. Film ini diawali 
+dengan tokoh Ikal dewasa (Lukman Sardi) yang kembali ke tanah kelahirannya 
+setelah merantau. Dia lalu fash back ke masa kecilnya dulu sewaktu masih di SD 
+Muhammadiyah yang sederhana dengan dua guru yang bersahaja, Bu Muslimah 
+(Cut Mini) dan Pak Harfan (Ikranagara). 
+
+Lima tahun berlalu dan flm bercerita tentang anggota Laskar Pelangi 
+kelimanya duduk di kelas V, melalui sudut pandang Ikal kecil (Zulfani). Selain Ikal, 
+ada juga tokoh Lintang (Ferdian) yang amat jenius dan Mahar (Verrys Yamarno) 
+yang menunjukkan bakat seni luar biasa. Tokoh-tokoh yang lain adalah Akiong, 
+Harun, Sahara, dan Kucai.
+
+Keputusan penting sutradara Riri Riza dan produser Mira Lesmana yang 
+memilih anak-anak asli Belitong sebagai pemain ternyata tepat. Mereka bisa 
+menyelami karakter masing-masing walaupun tidak punya pengalaman akting 
+sebelumnya. Memang, Riri dan Mira terkenal akan kemampuannya mengorbitkan 
+bakat-bakat baru seperti yang terjadi pada Rachel Maryam.
+
+Zulfani dan Ferdian menunjukkan penampilan yang luar biasa sebagai orang 
+baru dalam dunia akting tanpa pengalaman. Kepolosan mereka terasa sangat 
+natural, berbeda dengan bintang-bintang cilik lain yang sering mondar-mandir 
+di layar televisi kita. Anda pasti tanpa sadar tersenyum saat menyaksikan kisah 
+cinta Ikal dengan seorang gadis Tionghoa yang ditemuinya di pasar, menunjukkan 
+betapa naturalnya penampilan dia.
+
+Inti dari flm ini, secara emosional, sebenarnya Lintang. Penonton langsung 
+jatuh cinta sejak kemunculan pertama Ikal di layar. Sebagai anak termiskin dari 
+sebuah komunitas miskin, gayanya yang terengah-engah menggenjot sepeda yang 
+terlalu besar untuknya adalah sebuah scene tak terlupakan. Sementara itu, aktor 
+veteran Ikranagara, memberikan penampilan memukau sebagai Pak Harfan. 
+Dia sukses membawakan karakter guru senior yang bersemangat, baik hati, dan 
+sanggup mengambil hati anak-anak asuhannya.
+
+Skenarionya agak berbeda dibanding cerita di novel dengan penambahan 
+beberapa karakter guru yang tidak dituliskan oleh Andrea. Sebuah hal yang wajar, 
+tentu saja. Memang ini flm lawas keluaran 2008. Akan tetapi, tidak ada ruginya 
+menonton ”Laskar Pelangi” berkali-kali karena flm ini memang "beda" dan 
+berani melawan arus utama sinema Indonesia. [(resensiflmbagus.blogspot.com. 
+dengan beberapa penyesuaian)](https://resensiflmbagus.blogspot.com)
+</details>
+
+<details>
+  <summary>Contoh Teks Ulasan Album Lagu <br /> <i><b>Refrensi Buku Paket B Indo Halaman 157 - 158</b></i></summary>
+
+<br />
+
+Sensual! Itu adalah kata yang tepat untuk menggambarkan nyawa musik yang dibawa oleh band asal Malang ini. Band tersebut hadir kembali meramaikan 
+kancah musik lokal, Atlesta mengusung nuansa percampuran musik pop, RnB 
+dengan jazz dalam dua belas lagu besutan Fifan Christa dan kawan-kawan ini.
+
+Album kedua berjudul Sensation dimulai dengan lagu berjudul "Aroma". Lirik 
+yang singkat dengan sayup-sayup vokal perempuan, membiarkan pendengarnya 
+berimajinasi dalam track pemanasan ini. Tak cukup sampai di situ, lagu kedua 
+berjudul "Paris Weekend" juga membawa pada imajinasi seolah-olah berada 
+dalam perjalanan panjang menuju ke suasana romantis bersama musik bernuansa 
+jazz 80-an. Dalam lagu kedua ini sekilas melemparkan ingatan kita pada musik 
+yang diusung oleh grup band Earth Wind and Fire.
+
+Melompat ke lagi selanjutnya adalah "Oh You". Jika di album sebelumnya 
+kesan seksi nan nakal ditonjolkan oleh Fifan dan kawan-kawan, barangkali lagu 
+inilah yang mewakili perubahan kesan seksi-nakal ke seksi-elegan. Hal itu terlihat 
+dari pemilihan diksi yang jauh lebih halus tanpa meninggalkan kesan sensual.
+
+"Oh you, just feel the night // Alright, just turn me right // Oh you, turn of
+
+the light // Anybody alright, take it all to say." Melodinya catchy, dijamin sekali 
+mendengarkan kita tidak akan kesulitan untuk mengingat lagu ini.
+ Coba dengarkan lagu berjudul "Sensation". Pada lagu ini nuansa RnB lebih 
+terasa dengan ketukan unik. 
+ Album yang dikemas dengan dominan warna hitam ini menyuguhkan dua 
+instrumen. Pertama adalah "Sunset" didominasi oleh gitar. Nuansa itu sekilas 
+terdengar ala Kings of Convenience ini. Sementara itu, pada lagu ke sembilan 
+kita dibawa mendengarkan dentingan piano yang menenangkan setelah diajak 
+menggoyangkan tubuh pada lagu sebelumnya, "Cadillac Model".
+ Jika kamu pecinta musik sekaligus penikmat fotograf, di album ini kita bisa 
+menikmati keduanya sekaligus karena Atlesta mengemas lirik-lirik dalam album 
+Sensation itu ke dalam empat belas lembar foto menarik. Sayangnya lirik-lirik 
+tersebut tidak semuanya tercetak dengan baik, dengan font handwriting yang 
+cukup sulit untuk dibaca.
+ Secara umum, album ini sebenarnya sudah mampu mendekati apa yang 
+dikerja Atlesta, yakni kesan klasik. Atlesta jauh lebih matang, penuh gairah dan 
+namun tetap catchy. Sangat layak album itu untuk dikoleksi tentunya!
+[(Winda Carmelita, kapanlagi. com dengan beberapa penyesuaian)](https://kapanlagi.com)
+
+</details>
+
+# 📚 Ilmu Pengetahuan Alam (IPA)
+<details>
+  <summary>Sumber yang terkait pembelajaran 📦</summary>
+
+
 </details>
